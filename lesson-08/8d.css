@@ -1,0 +1,33 @@
+input{
+  margin-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(200, 200, 200);
+  border-radius: 5px;
+}
+
+.first-name-text,
+.last-name-text{
+  width: 100px;
+}
+
+.email-text{
+  width: 225px;
+  display: block;
+}
+
+.sign-button{
+  background-color: rgb(88, 141, 255);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 98px;
+  padding-left: 98px;
+  font-weight: bold;
+}

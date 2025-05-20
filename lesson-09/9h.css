@@ -1,0 +1,42 @@
+.card{
+  text-align: center;
+}
+
+.img-box{
+  display: block;
+}
+
+.buttons{
+  display: inline-block;
+}
+
+.google-img{
+  width: 300px;
+  height: 100px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.search-box{
+  width: 500px;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
+  border-radius: 30px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.search-button,
+.lucky-button{
+  background-color: rgb(238, 238, 238);
+  border: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-right: 10px;
+}

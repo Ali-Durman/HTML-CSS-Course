@@ -1,0 +1,46 @@
+p{
+  font-family: Arial;
+}
+
+.title{
+  font-size: 40px;
+  margin-bottom: 25px;
+}
+
+input{
+  display: block;
+  margin-bottom: 10px;
+  border: none;
+  background-color: rgb(232, 232, 232);
+  width: 300px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.destination-text{
+  margin-bottom: 25px;
+}
+
+.request-button{
+  background-color: black;
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 20px;
+  font-size: 16px;
+}
+
+.later-button{
+  background-color: rgb(232, 232, 232);
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 16px;
+}
