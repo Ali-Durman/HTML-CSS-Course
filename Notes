@@ -1,0 +1,126 @@
+----Part 1----
+
+HTML Basics
+
+So What is HTML?
+
+HyperText Markup Language = tool we use to create websites
+
+HTML = giving instructions to a computer
+
+href ="" = HTML Attribute = modifies how an element behaves
+
+HTML Syntax Rules
+
+What We Learned
+
+- Basics of HTML
+
+- HTML Attributes
+
+- Syntax
+
+----Part 2----
+
+CSS Basics
+
+CSS = Cascading Style Sheets = change the appearance of HTML elements
+
+CSS Syntax Rules
+
+CSS Selector = which elements were targeting
+
+CSS Property = what we are changing
+
+CSS Value = what were changing the property to
+
+General Technique:
+
+1. Create button with HTML
+2. Style with CSS one-by-one
+
+space (around an element (outside factor)) = margin
+
+----Part 3----
+
+Hovers: pseudo-class = it basically adds extra styles in a certain situation
+
+hover active pseudo class
+
+transition is animation in seconds
+
+box-shadow is horizontal and vertical shadowing technique
+
+----Part 4----
+
+Chrome Dev Tools = right click + inspect
+
+Box Model = spacing outside = margin and spacing inside in a element = padding
+
+CSS Box Model
+
+- How much space an element takes up
+
+- how far it is away from other elements
+
+----Part 5----
+
+Text Styles = font size, font family, font weight, font style etc.
+
+HTMl Entities like DOT &#183; and checkmark &#x2713;
+
+CSS Specificity = if we have multiple lines setting the same property, there's actually a priority that the browser follows.
+
+Selector (like p element in style) = The selector that's more specific has higher priority
+
+class name selector > element name selector
+
+text element = So a text element is an element that is inside a line of text
+
+----Part 6----
+
+HTML Structure
+
+its important because we cant use some of the futures of HTML5
+
+<!DOCTYPE html> means its latest version of html
+
+Nesting = element inside an element
+
+<html> = a web page
+
+<head> = nonvisible elements like <style>, <title>, <link>
+
+<link> element is special element its void elements = don't have closing tag and its takes two attributes one is rel stans for relation and href and its means what file we're going to link into this file
+
+<body> = contains all element that are visible
+
+Features we get:
+
+1. <title>
+2. Live Server
+3. Link CSS Files
+4. Add New Fonts
+   and more.
+
+----Part 7----
+
+----Part 8----
+
+----Part 9----
+
+----Part 10----
+
+----Part 11----
+
+----Part 12----
+
+----Part 13----
+
+----Part 14----
+
+----Part 15----
+
+----Part 16----
+
+----Part 17----
