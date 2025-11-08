@@ -105,6 +105,12 @@ Features we get:
 
 ----Part 7----
 
+Images and Text Boxes
+
+<img> has own css properties like object-fit and object-position
+
+and if you want to create search box or text boxes you will need to use <input> element and this element has several attributes that we can give it like type placeholder name and id
+
 ----Part 8----
 
 ----Part 9----

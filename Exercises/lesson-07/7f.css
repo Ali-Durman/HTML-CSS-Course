@@ -1,0 +1,34 @@
+p{
+  font-family: Arial;
+  margin: 0;
+  color: gray;
+}
+
+.email-text{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.email-box{
+  width: 375px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.privacy-policy{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.join-button{
+  font-family: Arial;
+  background-color: blue;
+  color: white;
+  width: 405px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 40px;
+  border: none;
+}
