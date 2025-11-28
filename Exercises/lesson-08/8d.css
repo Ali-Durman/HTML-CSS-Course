@@ -1,0 +1,37 @@
+.first-name{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  width: 145px;
+  margin-bottom: 10px;
+  border: solid;
+  border-width: 1px;
+  border-color: rgb(165, 165, 165);
+  border-radius: 5px;
+}
+
+.email-box{
+  width: 303px;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  border: solid;
+  border-color: rgb(165, 165, 165);
+  border-width: 1px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.sign-button{
+  width: 312px;
+  background-color: rgb(36, 107, 238);
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

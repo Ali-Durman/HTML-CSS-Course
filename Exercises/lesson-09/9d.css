@@ -1,0 +1,26 @@
+div{
+  width: 375px;
+  background-color: rgb(48, 47, 47);
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+  padding-right: 15px;
+}
+
+p{
+  font-family: Arial;
+  margin: 0;
+}
+
+.title{
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.subtitle{
+  color: gray;
+  margin-bottom: 15px;
+}

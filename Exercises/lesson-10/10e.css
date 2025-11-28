@@ -1,0 +1,60 @@
+p{
+  font-family: Arial;
+  margin: 0;
+}
+
+.profile-container{
+  margin-right: 20px;
+  width: 175px;
+  height: 320px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  display: inline-block;
+}
+
+.profile-picture{
+  width: 175px;
+  height: 175px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.profile-name{
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
+
+.mutual-friends-pic{
+  width: 25px;
+  height: 25px;
+  border-radius: 25px;
+  object-fit: cover;
+  object-position: center;
+  margin-left: 8px;
+}
+
+.mutual-friends{
+  display: inline-block;
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.mutual-friends-pic,
+.mutual-friends{
+  vertical-align: middle;
+  margin-bottom: 20px;
+}
+
+.add-button{
+  background-color: rgb(48, 48, 202);
+  color: white;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 4px;
+  margin-left: 8px;
+  cursor: pointer;
+}

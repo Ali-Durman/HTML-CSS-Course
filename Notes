@@ -113,11 +113,50 @@ and if you want to create search box or text boxes you will need to use <input> 
 
 ----Part 8----
 
+CSS Display Property
+
+1.Block Element = takes up the entire line
+2.Inline-Block Element = only takes up as much space as needed.
+3.Inline Element = appear within a line of text
+
 ----Part 9----
+
+<div> element
+
+<div> = division = just a box
+
+<div> = block element
+
+why is a div so useful?
+
+The key feature of a div is that it can contain any other elements inside
+
+<div> = containers
+
+block element = take up the entire line in their container
 
 ----Part 10----
 
+Nested Layouts
+
+is to much div's become in on top of each other like:
+
+<div>
+   <div>
+
+   </div>
+
+   <div>
+   
+   </div>
+
+</div>
+
+and font stack is = font-family: Roboto, Arial; this is a font stack it means when roboto wont loading as a font html would use his stock font and that is Arial
+
 ----Part 11----
+
+CSS GRID
 
 ----Part 12----
 
