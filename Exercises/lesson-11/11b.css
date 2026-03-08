@@ -1,6 +1,6 @@
 .grid{
   display: grid;
-  grid-template-columns: 200px 75px;
+  grid-template-columns: 50px 1fr 75px;
 }
 
 .box-1{
@@ -9,4 +9,8 @@
 
 .box-2{
   background-color: lightpink;
+}
+
+.box-3{
+  background-color: lightblue;
 }
